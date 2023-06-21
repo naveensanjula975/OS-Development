@@ -1,6 +1,6 @@
 # Assembly OS Development
 
-This project aims to develop an operating system (OS) using assembly language. The OS will provide low-level control over hardware and implement essential functionalities such as process management, memory management, device drivers, and file systems. The development will primarily focus on a specific target platform, which is [insert target platform here, e.g., x86 architecture].
+This project aims to develop an operating system (OS) using assembly language. The OS will provide low-level control over hardware and implement essential functionalities such as process management, memory management, device drivers, and file systems. The development will primarily focus on a specific target platform, which is x86 architecture.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ Contributions to this OS development project are welcome. If you'd like to contr
 
 ## License
 
-This project is licensed under the [insert license name] license. Refer to the LICENSE file for more information.
+This project is licensed under the MIT license. Refer to the LICENSE file for more information.
 
 ## Resources
 
@@ -67,5 +67,3 @@ Throughout the development process, it is crucial to document your code and desi
 ## Conclusion
 
 Developing an operating system using assembly language is a challenging but rewarding endeavor. By understanding computer architecture, writing efficient assembly code, and implementing essential OS functionalities, you can create a custom OS tailored to your target platform. Remember to iterate, test, and document your code throughout the development process. Contributions from the open-source community can also greatly enhance the capabilities and usability of your OS. Enjoy the journey of OS development and continue expanding your knowledge in this fascinating field.
-
-Please note that this README.md file is a general template, and you should customize it based on your specific OS development project.
